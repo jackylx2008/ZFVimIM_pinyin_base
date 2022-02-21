@@ -2973,7 +2973,6 @@ litui 离退
 liu 流 六 留 陆 刘 溜 柳 碌 瘤 榴 浏 硫 琉 遛 馏 镏 骝 绺 锍 旒 熘 鎏 鹨 偻 僂 劉 嚠 塯 媹 嬼 嵧 廇 懰 抡 斿 旈 栁 桞 桺 橊 橮 沠 泖 泵 游 漻 澑 瀏 熮 珋 瑠 瑬 璢 畂 畄 畱 疁 癅 磂 磟 綹 罶 羀 翏 聊 膢 蒌 蒥 蓅 蓼 蔞 藰 蟉 裗 蹓 鉚 鋶 鎦 鏐 鐂 铆 镠 陸 雡 霤 飀 飂 飅 飗 餾 駠 駵 騮 驑 鬸 鰡 鶹 鷚 鹠 麍
 liubai 留白
 liuchang 流畅
-liuchen 刘陈
 liucheng 流程
 liuda 六大 遛哒
 liude 留的
@@ -2984,19 +2983,13 @@ liujian 刘健
 liukong 留空
 liulan 浏览
 liulanqi 浏览器
-liule 刘乐
 liuliang 流量
-liunian 刘念
 liushi 流失
 liutu 流图
 liuxia 留下
-liuxiao 刘晓
 liuxin 刘昕
 liuyi 留意
-liuyou 刘友
-liuyuan 刘源
 liuzhong 六中
-liuzhu 刘筑
 liwai 例外
 lixian 离线
 lixiang 立项 理想
@@ -3027,8 +3020,6 @@ lubo 录播
 luduan 路段
 lue 略 掠 锊 剠 圙 寽 擽 率 畧 稤 药 藥 詻 鋝 鋢
 luewei 略微
-lufei 路费
-lugui 鲁桂
 lujing 路径
 lun 轮 论 伦 沦 仑 抡 囵 纶 侖 倫 圇 埨 婨 崘 崙 惀 掄 棆 淪 溣 睔 碖 磮 稐 綸 耣 腀 菕 蜦 論 踚 輪 錀 陯 鯩
 lunbo 轮播
@@ -3054,15 +3045,12 @@ luowu 落伍
 luoxian 螺线
 luoxiao 罗小
 luoxuan 螺旋
-luoyu 罗雨
 luozhao 裸照
 luozhu 罗筑
 luping 录屏
 luqu 录取
 luru 录入
-lushuang 鲁霜
 luxian 路线
-luxiang 卢湘
 luxing 路行
 luyin 录音
 luyong 录用
@@ -6523,3 +6511,4 @@ zuyong 租用
 zuyuan 组员
 zuzhang 组长
 zuzhi 组织
+
